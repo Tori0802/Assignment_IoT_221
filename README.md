@@ -5,7 +5,7 @@
 </ul>
 
 
-## Group: &ensp; 6 
+## Group: 6 
 *Members list:* <br>
 | STT | Name | ID |
 | :----: | :---- | :----: |
